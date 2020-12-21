@@ -1,7 +1,12 @@
 # 72_flip_booleans:
 
 def flip(arg):
-    if arg == '0':
+    """
+    My function will put the opposite of the boolean value. Example if I put False it will 
+    return True. Another example is that python thinks 0 is False but we want 
+    it to return 
+    """
+    if arg == 0:
         return "boolean expected"
     elif arg == True:
         return False
