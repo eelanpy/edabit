@@ -1,4 +1,4 @@
-# 74_return_index_capital:
+# 74_return_index_vow:
 import test
 import string
 
