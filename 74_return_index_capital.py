@@ -1,6 +1,5 @@
 # 74_return_index_vow:
-import test
-import string
+
 
 def return_index_upper(str):
     lst_index = []
